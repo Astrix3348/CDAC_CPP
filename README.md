@@ -1,4 +1,4 @@
-##DAY-1 Questions
+## DAY-1 Questions
 
 1.Greatest of Three Numbers
 Read three integers and print the largest.
