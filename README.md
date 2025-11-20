@@ -42,7 +42,7 @@ Output: 1 2 3 4 6 12
 Input: 12 18
 Output: 6
 
-##DAY-2
+## DAY-2
 
 1. Write a C++ program to demonstrate the operations on pointers.
 2. Write a C++ program to swap two numbers using functions.
