@@ -76,3 +76,10 @@ calculateAge()
 checkEligibility()
 printResult()
 
+
+
+## DAY-3
+- Matrix Addition
+- Matrix Multiplication
+- Matrix Transpose
+
