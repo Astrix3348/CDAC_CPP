@@ -82,4 +82,5 @@ printResult()
 - Matrix Addition
 - Matrix Multiplication
 - Matrix Transpose
+- Tower Of Hanoi
 
