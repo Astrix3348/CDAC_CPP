@@ -1,87 +1,76 @@
-## DAY-1 Questions
+# 🚀 C++ Practice & Assignment – Day Wise Problem Set
 
-1.Greatest of Three Numbers
-Read three integers and print the largest.
+This repository contains structured C++ programming practice exercises organized day-wise.  
+The focus is on strengthening logic building, understanding loops, functions, pointers, recursion, and matrix operations.
 
-2.Sum of First N Natural Numbers
-Use a while loop to compute the sum of first N natural numbers.
+---
 
-3.Count Digits in a Number
-Input a number and print how many digits it has.
+## 📅 **DAY 1 – Basic Programs & Loop Concepts**
 
-4.Factorial using Loop
-Compute factorial of a number using a for loop.
+| No. | Topic / Task |
+|-----|--------------|
+| 1 | Greatest of Three Numbers |
+| 2 | Sum of First N Natural Numbers using `while` loop |
+| 3 | Count digits in a number |
+| 4 | Factorial using `for` loop |
+| 5 | Check Armstrong Number (any number of digits) |
+| 6 | Frequency of each digit (0–9) in a number |
+| 7 | Count even & odd digits |
+| 8 | Print squares from 1 to N |
+| 9 | Find power of a number using loop (`a^b`) |
+|10 | Print numbers divisible by 3 from 1 to N |
+|11 | Print all factors of a number |
+|12 | Find GCD of two numbers |
 
-5.Armstrong Number (for any number of digits)
-Check whether a number is Armstrong sum of cube of digits is the number(e.g., 153, 9474).
+---
 
-6.Frequency of Each Digit
-Print how many times each digit (0–9) occurs in a number.
+## 📅 **DAY 2 – Functions & Pointers**
 
-7.Count the number of even and odd digits in a number:
-Input: 4523212
-Output: Even digits=4 Odd digits=3
+| No. | Topic / Task |
+|-----|--------------|
+| 1 | Demonstrate operations on pointers |
+| 2 | Swap two numbers using functions |
+| 3 | Menu-driven calculator using `switch-case` & functions |
+| 4 | Function to compute factorial |
+| 5 | Function to compute simple interest |
+| 6 | Function to determine grade of a student |
+| 7 | Function to print all numbers between two inputs |
+| 8 | Function to find largest digit in a number |
+| 9 | Electricity bill calculation using slab system & functions |
+| 10 | Banking system (functions: `checkBalance()`, `deposit()`, `withdraw()`, `miniStatement()`) |
+| 11 | Voting eligibility validation system using functions |
 
-8.Print Squares of a numbers from 1 to N where N is user input
-Input: 5
-Output: 1 4 9 16 25
+---
 
-9.Find power of a number using loop (a^b)
-Input: a=2 b=5
-Output: 32
+## 📅 **DAY 3 – Arrays, Matrices & Recursion**
 
-10.Find all the numbers divisible by 3 between 1 to N
-Input: 20
-Output: 3 6 9 12 15 18
+| Topic |
+|--------|
+| Matrix Addition |
+| Matrix Multiplication |
+| Matrix Transpose |
+| Tower of Hanoi |
+| `typedef` usage in C++ |
 
-11.Print the factors of a number
-Input: 12
-Output: 1 2 3 4 6 12
+---
 
-12.Find the GCD of two numbers
-Input: 12 18
-Output: 6
+## 🛠 **Languages & Tools**
 
-## DAY-2
+- C++
+- Sublime Text
+- GCC / G++ Compiler
 
-1. Write a C++ program to demonstrate the operations on pointers.
-2. Write a C++ program to swap two numbers using functions.
-3. Write a C++ program to create a menu driven calculator with the concept of switch case for menu and functions for operations.
-4. Write a function to calculate factorial of a number.
-5. Write a function to compute simple interest.
-6. Write a function to determine the grade of a student based on marks and utilize it to calculate grade of one students.
-7. Write a function to print all numbers between two inputs.
-8. Write a function to find the largest digit of a number.
-9. Write functions for:
-Reading units
-Calculating bill based on slabs:
-   0–100 → ₹3/unit
-   101–200 → ₹4.5/unit
-   200 → ₹6/unit
-Adding fixed charges
-Printing bill.
+---
 
-11. 
-Use functions for:
-checkBalance()
-deposit()
-withdraw()
-miniStatement()
-Main function should show a menu and call these functions.
+## ⭐ Contribution
+Feel free to fork, improve, or add more problems and solutions via pull requests!
 
-11.Voting Eligibility Validation System
-Functions:
-inputDOB()
-calculateAge()
-checkEligibility()
-printResult()
+---
 
+## 📧 Contact
+For queries or suggestions:  
+**Aakash Gangwar**
 
+---
 
-## DAY-3
-- Matrix Addition
-- Matrix Multiplication
-- Matrix Transpose
-- Tower Of Hanoi
-- TypeDef
-
+### 🌟 If you like this repository, don't forget to star it!
