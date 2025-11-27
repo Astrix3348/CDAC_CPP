@@ -51,6 +51,7 @@ The focus is on strengthening logic building, understanding loops, functions, po
 | Matrix Transpose |
 | Tower of Hanoi |
 | `typedef` usage in C++ |
+| `struct` usage in C++ |
 
 ---
 
