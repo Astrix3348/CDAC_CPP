@@ -10,9 +10,9 @@ struct employee{
 	int salary;
 };
 
-int countEmp(employee emp[]){
+int countEmp(employee emp[], int num){
 	int count = 0;
-	for(int i = 0; i < 2; i++){
+	for(int i = 0; i < num; i++){
 		if(emp[i].department == "sales"){
 			count++;
 		}
@@ -20,9 +20,9 @@ int countEmp(employee emp[]){
 	return count;
 }
 
-void display(employee emp[]){
+void display(employee emp[], int num){
 
-	for(int i = 0; i < 2; i++){
+	for(int i = 0; i < num; i++){
 		cout << "id: " << emp[i].emp_id << endl;
 		cout << "name: " << emp[i].emp_name << endl;
 		cout << "designation: " << emp[i].design << endl;
@@ -33,9 +33,13 @@ void display(employee emp[]){
 }
 
 void getInfo(){
-	employee emp[2];
+	int num;
+	cout << "how many employees? ";
+	cin >> num;
+	cout << endl;
+	employee emp[num];
 
-	for(int i = 0; i < 2; i++){
+	for(int i = 0; i < num; i++){
 
 		cout << "Enter employee id: ";
 	    cin >> emp[i].emp_id;
@@ -52,8 +56,8 @@ void getInfo(){
 
 	}
 
-	display(emp);
-	cout << "the employees working under sales are: " << countEmp(emp) << endl;
+	display(emp, num);
+	cout << "the employees working under sales are: " << countEmp(emp, num) << endl;
 	
 }
 
