@@ -55,6 +55,16 @@ The focus is on strengthening logic building, understanding loops, functions, po
 
 ---
 
+## 📅 **DAY 4 – Classes, Dynamic, Destructor and New Operator**
+
+| No. | Topic / Task |
+|-----|--------------|
+| 1 | Complex Number |
+| 2 | Struct |
+| 3 | Classes(Appliances) using Vector |
+| 4 | Classes(Appliances) using Array |
+| 5 | Static KeyWord and Destructor and Static Counter |
+
 ## 🛠 **Languages & Tools**
 
 - C++
